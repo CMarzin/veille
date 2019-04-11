@@ -4,6 +4,8 @@ Veille tech
 
 ## UX
 - https://uxdesign.cc/writing-clearer-error-messages-d57d6f388140
+- https://medium.com/@christiet/ui-ux-patterns-you-literally-cannot-design-design-patents-from-tech-companies-21ae9643dc9e
+  - to read
 
 
 ## Design
