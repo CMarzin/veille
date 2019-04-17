@@ -39,7 +39,11 @@ Veille tech
 
 
 ## Tool
-[Static CMS for Hugo & Jekyll | Forestry.io](https://forestry.io/)
+- [Static CMS for Hugo & Jekyll | Forestry.io](https://forestry.io/)
+
+### Design Tool
+- [The Visual Workspace](https://whimsical.co)
+_____________
 
 
 ## Illustration
@@ -48,3 +52,12 @@ Veille tech
 
 ## Articles
 - [Website with blog and portfolio using Vue.js + Nuxt + Markdown – Marina Aisa](https://marinaaisa.com/blog/blog-using-vue-nuxt-markdown/)
+
+## Scraping
+- [Spider](https://spider.amie-chen.com)
+
+## JS Framework
+- [Razzle](https://github.com/jaredpalmer/razzle)
+
+## Vue tips
+- [Dynamic import](https://vuedose.tips/tips/dynamic-imports-in-vue-js-for-better-performance/)
