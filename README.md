@@ -12,6 +12,7 @@ Veille tech
 ## Design
 - [How to build a design system from scratch](https://dribbble.com/stories/2019/04/05/how-to-build-a-design-system-from-scratch)
   - to read
+- [How to improve your UI/UX skills as a developer](https://medium.freecodecamp.org/how-to-improve-your-ui-ux-design-skills-as-a-developer-1fd96a49d807)
 
 ## Documentation
 - [Storybook guide vue](https://storybook.js.org/docs/guides/guide-vue/)
