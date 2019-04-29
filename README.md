@@ -13,6 +13,7 @@ Veille tech
 - [How to build a design system from scratch](https://dribbble.com/stories/2019/04/05/how-to-build-a-design-system-from-scratch)
   - to read
 - [How to improve your UI/UX skills as a developer](https://medium.freecodecamp.org/how-to-improve-your-ui-ux-design-skills-as-a-developer-1fd96a49d807)
+- [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
 
 ## Documentation
 - [Storybook guide vue](https://storybook.js.org/docs/guides/guide-vue/)
@@ -28,6 +29,7 @@ Veille tech
 
 ## CSS
 - [What's next in CSS ?](https://cssdb.org)
+- [CSS Handbook](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11?source=collection_home---6------18---------------------)
 
 ## Static site generator
 - https://www.gitbook.com
@@ -62,3 +64,6 @@ _____________
 
 ## Vue tips
 - [Dynamic import](https://vuedose.tips/tips/dynamic-imports-in-vue-js-for-better-performance/)
+
+## Docker
+- [Beginner's Guide to Docker](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa)
